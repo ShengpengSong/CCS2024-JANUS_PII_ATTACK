@@ -12,7 +12,7 @@
     </a>
 </p>
 
-本仓库包含了我们发表于 ACM CCS 2024 论文的官方代码，使用了 GPT-2 语言模型与 Flair 实体识别（NER）模型。此代码基于 https://github.com/microsoft/analysing_pii_leakage ，并支持我们提出的针对性隐私攻击——Janus 攻击。
+本仓库包含了发表于 ACM CCS 2024 论文的官方代码，使用了 GPT-2 语言模型与 Flair 实体识别（NER）模型。此代码基于 https://github.com/microsoft/analysing_pii_leakage ，并支持提出的针对性隐私攻击——Janus 攻击。
 
 ## 论文信息
 
